@@ -1,2 +1,2 @@
 # MobileApp1
-First Mobile App
+Repository containing mobile apps created for practice
